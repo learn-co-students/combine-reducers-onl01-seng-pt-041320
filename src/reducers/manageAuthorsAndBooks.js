@@ -37,3 +37,5 @@ export default function bookApp(
       return state;
   }
 }
+
+// i have no idea what this lesson was about.  Extremely unclear
